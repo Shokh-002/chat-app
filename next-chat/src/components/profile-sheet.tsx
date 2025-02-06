@@ -120,7 +120,7 @@ export const ProfileSheet: FC<ProfileSheetProps> = ({
         <DialogContent>
           <DialogHeader>
             <DialogTitle className='mb-5'>
-              Are you absolutely sure you want to block {username}?
+              Are you absolutely sure you want to blockk {username}?
             </DialogTitle>
           </DialogHeader>
           <div className='flex items-center space-x-3'>
